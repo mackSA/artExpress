@@ -1,0 +1,25 @@
+body
+{
+  
+  
+}
+
+
+#header h1
+{
+    margin-top: 50px;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+#blocks
+{
+      margin-top: 50px;
+      
+}
+
+@media only screen and (max-device-width: 480px) {
+
+
+}
